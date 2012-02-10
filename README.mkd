@@ -1,0 +1,10 @@
+This is the complete dump of whatever tools I used for extracting data from IITJEE websites to get the results during 2010-2011.
+
+###Mess
+I know the current code is a mess, but it was written just to get work done. I might get around to fixing it someday. The code uses [Snoopy](http://sourceforge.net/projects/snoopy/) to fetch data, and some other parsing libraries (Simple HTML Dom) to get the list of candidates.
+
+###Its still I mess
+The major part was `jee*.php` files, which include the JEE registration number sequences.
+
+###What Else?
+You can get some stuff in `static` and `Data` folders. I was working on a Facebook App, which would tell you the number of people who got selected in JEE with same first name as yours. The girls.php file was a filter for Indian girl names (done on huge requests from IIT junta).  I was also trying to brute-force the Birthdays of all the candidates to get the marks in 2011 (which needed the Reg No + Bday). I also ran something similar for JAM 2011 (on request of a dear friend). 

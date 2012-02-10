@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/trellian.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+-->
+</style>
+
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+
+<!--
+.style6 {	color: #cd4a8c;
+	font-weight: bold;
+}
+.style7 {
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+</style>
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+<!-- InstanceBeginEditable name="metatags" -->
+	<style type="text/css">
+<!--
+.tableStyle{
+ display:none
+ }
+-->
+</style>
+
+<title>Joint Entrance Examination - 2011</title>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2">
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="244A25">
+      <tr>
+        <td><div align="center"><img src="images/logo1.gif" /></div></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>	
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr><td colspan="2"><br />
+<script language="javascript"> 
+  function toggle_it(itemID){ 
+      // Toggle visibility between none and inline 
+	  
+      if ((document.getElementById(itemID).style.display == 'none')) 
+      { 
+        document.getElementById(itemID).style.display = 'inline'; 
+        document.getElementById('DisplayButton').style.display = 'none'; 		
+      } else { 
+        document.getElementById(itemID).style.display = 'none'; 
+      } 
+  } 
+</script> 
+	  
+    <SCRIPT type=text/javascript> function Go(){return}</SCRIPT>
+    <SCRIPT src="images/menu_var.js" type=text/javascript></SCRIPT>
+    <SCRIPT src="images/menu_com.js" type=text/javascript></SCRIPT>
+    <NOSCRIPT>Your browser does not support script</NOSCRIPT> 
+	<DIV id=TopMenu style="WIDTH: 900px; POSITION: relative; HEIGHT: 35px"></DIV></td>
+  </tr>
+  <tr>
+    <td background="images/page_bg.gif"><div align="left">
+      <table width="100%" height="400" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#111111" background="images/page_bg.gif" style="BORDER-COLLAPSE: collapse">
+      <tbody valign="top">
+            <tr>
+              <td>
+			  
+
+                <table width="80%" border="0" valign=top background="images/page_bg.gif">
+                  <tr>
+                    <td>
+
+                      <div align="center">
+					  <h4 align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="4" face="Arial, Helvetica, sans-serif">JEE-2011 Result</font></b></font></h4>
+					  <p><br />
+					    <center><br>Registration Number/Application Form Number 100001 is invalid. <br><br> </center>					
+					    </p>
+					  <p class="content"><em><strong>
+					  <p>&nbsp;</p>
+                      </div></td>
+                  </tr>
+<tr>
+                            <td><br /><div align="center"><strong><font color="#000000" size="1">Developed at :</font></strong><br />
+                                    <strong><font color="#FF0000" size="1">JEE Office, IIT Delhi </font></strong></div></td>
+                          </tr>
+				  
+                </table></td>
+            </tr>
+        </table>
+              </div></td>
+
+  </tr>
+          </tbody>
+
+</table>
+    </td>
+    <td >&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
